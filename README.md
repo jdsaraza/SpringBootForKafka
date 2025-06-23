@@ -20,3 +20,4 @@ The code is organized as follows:
 - And service project for sending messages SpringBootProviderApplication
 
 This version explicitly notes that `other.txt` contains the Kafka and Zookeeper terminal commands. Let me know if you need any additional refinements! 🚀
+Remember initialize in the terminal zookeeper server, and kafka server.
